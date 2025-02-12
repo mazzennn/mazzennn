@@ -26,7 +26,7 @@ I'm a passionate **[Your Profession or Interest]** with a love for **[Your Speci
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 
 ### 📫 Connect With Me
-[![LinkedIn](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/zaenul-muntaha-332493240/)
+[![LinkedIn](https://www.linkedin.com/in/zaenul-muntaha-332493240/)
 [![Instagram](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
