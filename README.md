@@ -1,5 +1,9 @@
 ## Hi there, I'm Zaenul Muntaha! 👋😃
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/ab/fb/9e/abfb9ecd161d08420afc886af725394d.jpg" width="300" height="300" style="object-fit: cover; border-radius: 10px;" alt="Banner">
+</p>
+
 ### 🚀 About Me
 I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjoy building innovative projects that solve real-world problems.
 
