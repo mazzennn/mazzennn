@@ -1,14 +1,12 @@
-## Hi there, I'm [Your Name]! 👋
-
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,coding)
+## Hi there, I'm Zaenul Muntaha! 👋😃
 
 ### 🚀 About Me
-I'm a passionate **[Your Profession or Interest]** with a love for **[Your Specialization]**. I enjoy building innovative projects that solve real-world problems. Currently, I'm working on **[Your Current Project or Interest]** and exploring **[New Tech You're Learning]**.
+I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjoy building innovative projects that solve real-world problems.
 
-- 🌱 Currently learning **[Tech Stack or Topic]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email or Social Media]**
-- ⚡ Fun fact: **[Something Unique About You]**
+- 🌱 Currently learning **Machine Learning**
+- 💬 Ask me about **React Native, ESP32, FastAPI, MongoDB**
+- 📫 Reach me at **zaenulmuntaha04@gmail.com**
+- ⚡ Fun fact: **I love automating things with microcontrollers!**
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,18 +14,17 @@ I'm a passionate **[Your Profession or Interest]** with a love for **[Your Speci
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzennn&layout=compact&theme=tokyonight)
 
 ### 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/zaenul-muntaha-332493240/)
-[![Instagram](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaenul-muntaha-332493240/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mazzen.id)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 *"Keep coding, keep learning, and keep building amazing things!"* 🚀
