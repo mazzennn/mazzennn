@@ -8,7 +8,6 @@
 I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjoy building innovative projects that solve real-world problems.
 
 - 🌱 Currently learning **Machine Learning**
-- 💬 Ask me about **React Native, ESP32, FastAPI, MongoDB**
 - 📫 Reach me at **zaenulmuntaha04@gmail.com**
 - ⚡ Fun fact: **I love automating things with microcontrollers!**
 
