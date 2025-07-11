@@ -31,3 +31,5 @@ I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjo
 
 ---
 *"Keep coding, keep learning, and keep building amazing things!"* 🚀
+
+<p align="center"><img alt="naufalw0501"  src="https://komarev.com/ghpvc/?username=naufalw0501&label=Profile%20views&color=0e75b6&style=flat"/></p>
