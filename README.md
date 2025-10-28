@@ -16,6 +16,7 @@ I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjo
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=mazzennn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazzennn&layout=compact&theme=tokyonight)
 
 ### Connect With Me
@@ -26,4 +27,4 @@ I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjo
 ---
 *"Keep coding, keep learning, and keep building amazing things!"* 
 
-<p><img alt="naufalw0501"  src="https://komarev.com/ghpvc/?username=mazzennn&label=Profile%20views&color=blue&style=flat"/></p>
+<p><img alt="mazzenhehehe"  src="https://komarev.com/ghpvc/?username=mazzennn&label=Profile%20views&color=blue&style=flat"/></p>
