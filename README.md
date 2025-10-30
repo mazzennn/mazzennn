@@ -25,6 +25,6 @@ I'm a passionate **Developer** with a love for **Web Development & IoT**. I enjo
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
-*"Keep coding, keep learning, and keep building amazing things!"* 
+*"keep learning"* 
 
 <p><img alt="mazzenhehehe"  src="https://komarev.com/ghpvc/?username=mazzennn&label=Profile%20views&color=blue&style=flat"/></p>
